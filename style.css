@@ -1,0 +1,26 @@
+h1 {
+	margin-bottom:0em
+}
+
+p{
+	margin-bottom: 0em
+}
+
+img {
+	position: static;
+    left: 0px;
+    border: 3px solid #73AD21;
+
+}
+
+.cont1 {
+	position: relative;
+    border-left: solid 5px #ccc;
+    border-top: 15
+    width: 90px;
+    height: 70%;
+    top: 0px;
+    right: 0;
+    background-color: #f0f0f0;
+}
+
